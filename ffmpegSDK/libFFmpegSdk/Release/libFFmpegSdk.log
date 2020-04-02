@@ -1,0 +1,16 @@
+﻿  FFmpegVideoEncoderWrapper.cpp
+e:\code\project\ffmpegsdk\ffmpegsdk\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+..\source\FFmpegVideoEncoderWrapper.cpp(169): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+..\source\FFmpegVideoEncoderWrapper.cpp(344): warning C4018: “<”: 有符号/无符号不匹配
+  FFVideoEncoderObj.cpp
+e:\code\project\ffmpegsdk\ffmpegsdk\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  HWVideoEncoderWrapper.cpp
+e:\code\project\ffmpegsdk\ffmpegsdk\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  SWVideoEncoderWrapper.cpp
+e:\code\project\ffmpegsdk\ffmpegsdk\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+    正在创建库 E:\code\project\ffmpegSdk\ffmpegSDK\Release\libFFmpegSdk.lib 和对象 E:\code\project\ffmpegSdk\ffmpegSDK\Release\libFFmpegSdk.exp
+  正在生成代码
+  All 183 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  libFFmpegSdk.vcxproj -> E:\code\project\ffmpegSdk\ffmpegSDK\Release\libFFmpegSdk.dll
+  libFFmpegSdk.vcxproj -> E:\code\project\ffmpegSdk\ffmpegSDK\Release\libFFmpegSdk.pdb (Full PDB)
